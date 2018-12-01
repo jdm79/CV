@@ -11,12 +11,13 @@ Have lived and worked all over the world for the last 20 years and am recently r
 
 | Project | Timeframe | Description | Technologies |
 | ------------------------ | --------- | ----------- | ----------------- |
-|[Injection Dependent](https://github.com/Alastair2D/injection_dependent)|11 days|Final group project. To help those recently diagnosed with type 1 diabetes, by i) keeping a record of previous injections, and ii) suggesting the next injection site to help make cycling through them habitual. The first time any of us had worked on a mobile application.|React Native, Expo, Jest, Enzyme|
-|[Acebook](https://github.com/jdm79/acebook-PingPongAlmonds)| 11 days| Second group project, Facebook clone built using Agile methodologies. Initially all done in Rails, halfway through we were told to separate the front & back-end. This was very useful in teaching the basics of developing a RESTful API, and also built on what I'd been doing in React before.| Ruby, Rails, RSpec, Devise, JavaScript, React, Jest, Enzyme
+|[Injection Dependent](https://github.com/Alastair2D/injection_dependent)|11 days|Final group project. To help those recently diagnosed with type 1 diabetes, by i) keeping a record of previous injections, and ii) suggesting the next injection site to help make cycling through them habitual. The first time most of us had worked on a mobile application.|React Native, Expo, Jest, Enzyme|
+|[Acebook](https://github.com/jdm79/acebook-PingPongAlmonds)| 11 days| Second group project, Facebook clone built using Agile methodologies. Initially all done in Rails, halfway through we were told to separate the front and back-end. This was very useful in teaching the basics of developing a RESTful API, and also built on what I'd been doing in React before.| Ruby, Rails, RSpec, Devise, JavaScript, React, Jest, Enzyme
 |[Makers BnB](https://github.com/jdm79/makersbnb)| 5 days| This was the first ever group project that any of us had done. The task was to create a platform which emulates the functionality of Airbnb. It taught us a lot about best practices when it comes to working in a group.| Ruby, Sinatra, RSpec, PostgreSQL, Active Record
 |[Bank Tech Test](https://github.com/jdm79/bank-tech-test-ruby)| 2 days| TDD Ruby mock tech test where the intention was to produce high quality, flexible, easy-to-understand, and maintainable code. |Ruby, RSpec|
 
 One project I am keen to begin is an app listing gluten-free (or gluten-free friendly) places in the user's vicinity, using geolocation.
+
 
 ## Skills
 
@@ -24,9 +25,10 @@ One project I am keen to begin is an app listing gluten-free (or gluten-free fri
 
 The past few months have emphasised how powerful effective teamwork can be, and how crucial communication is for achieving this. The group projects listed above have given me a taste of working in software teams, helping me to become more comfortable with Agile methodologies and sparking a desire to continue building things in the future, whatever the tech stack.
 
-#### Experience
+#### Experienced
 
 Having lived, studied and worked in four different countries over the last 20 years, in a wide variety of careers, I feel like I have much to offer as an employee and a team member in terms of experience, people skills and learning new technologies, in addition to having a greater understanding of the world context.
+
 
 ## Education
 
@@ -61,6 +63,7 @@ In addition to the work done here, I have also experimented with Angular, Ionic 
 #### Volkshochschule Wiesbaden (Sept 2012 - Dec 2012)
 
 - Studied German language and culture
+
 
 ## Experience
 
