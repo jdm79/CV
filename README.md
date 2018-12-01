@@ -1,6 +1,6 @@
-## <p align="center"> Harry Pugh </p>
+## <p align="center"> James Malvern </p>
 
-<p align="center"> HJPdev@gmail.com </p>
+<p align="center"> james.malvern@gmail.com </p>
 
 <p align="center"> <a href="#recent_projects">Recent Projects</a>  | <a href="#skills">Skills</a> | <a href="#education">Education</a> | <a href="#experience">Experience</a> | <a href="https://www.linkedin.com/in/harry-james-pugh-348862162/">LinkedIn</a>  </p>
 
